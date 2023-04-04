@@ -11,4 +11,4 @@ OpenFactFoods est une base de données alimentaires
 4. Conception d'un schéma multidimensionnel mondrian dans Schema WorkBench
 5. Utilisation du plugin JPivot de Pentaho pour faire des requêtes vers notre base de diffusion en utilisant le schéma mondrian
 
-*Le rapport fait état des différentes étapes réalisées
+*Le rapport fait état des différentes étapes réalisées*
